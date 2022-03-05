@@ -1,1 +1,7 @@
-# _reusable
+# Reusable
+
+.
+├── js
+│   ├── classes
+│   └── helpers
+└── index.html
