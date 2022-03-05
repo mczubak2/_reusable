@@ -1,7 +1,7 @@
 # Reusable
 
     .
-    ├── js
+    └── js
     │   ├── classes
     │   └── helpers
-    └── index.html
+    └── vue
